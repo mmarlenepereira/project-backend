@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product_name: MyString
+  description: MyText
+  price: 1.5
+  payment_terms: MyString
+  delivery_date: 2023-06-24
+  status: MyString
+  image: MyString
+  client: one
+
+two:
+  product_name: MyString
+  description: MyText
+  price: 1.5
+  payment_terms: MyString
+  delivery_date: 2023-06-24
+  status: MyString
+  image: MyString
+  client: two
